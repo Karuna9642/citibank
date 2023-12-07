@@ -1,3 +1,4 @@
 
 i  hello every one am now try to learn git
-now am updating 
+now am updating
+adding one more line  
